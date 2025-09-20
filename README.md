@@ -50,7 +50,7 @@ Berikut beberapa project & repositori yang menarik:
 
 - Email: **tannstore6@gmail.com** 
 <!-- - LinkedIn: [linkedin.com/in/yoktans](https://www.linkedin.com/in/yoktans) (opsional)* -->
-- Twitter / Instagram: `@yktntann` *(opsional)*  
+- Twitter / Instagram: `@yktntann`  
 
 ---
 
