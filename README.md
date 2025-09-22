@@ -42,8 +42,6 @@ Berikut beberapa project & repositori yang menarik:
 - **testinfinite** — Eksperimen membuat sesuatu yang “infinite loop” / infinite scroll / animasi?  
 - **testinf** — Mini-projek / eksperimen kecil yang membantu saya memahami konsep tertentu lebih dalam.  
 
-> Catatan: kamu bisa tambahkan deskripsi singkat & screenshot jika ada di masing-masing project agar repo lebih menarik.
-
 ---
 
 ## 📫 Get in Touch
