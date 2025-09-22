@@ -10,7 +10,7 @@ Badges: kamu bisa tambahkan setelah ini, seperti GitHub stats, top langs, dll
 
 ## 🔭 About Me
 
-- 🌱 Saya sedang belajar & eksplor dunia **Java**, **HTML**, **Python**, **Web Development**, dan praktik membuat ecommerce.  
+- 🌱 Saya sedang belajar & eksplor dunia **Java**, **HTML**, **Python**, **Web Development**, dan praktik membuat **E-commerce**.  
 - 🔐 Enthusiast in **Cybersecurity** — suka belajar dan mengulik keamanan jaringan, dan sistem
 - 📡 Passionate in **IoT (Internet of Things)** — membangun project berbasis **Arduino, ESP8266, ESP32**, dan integrasi dengan blynk.
 - 🎯 Saya percaya bahwa kolaborasi & sharing ilmu adalah kunci untuk pembelajaran yang lebih cepat & menyenangkan.  
